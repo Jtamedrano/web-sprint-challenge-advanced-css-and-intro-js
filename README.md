@@ -27,9 +27,9 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 2. Talk about 3 different things you can do to ensure your website is accessible.
    > One can add alt tags to images with a description of the image incase it doesn't load, add media queries for people with smaller or larger screen sizes, and add reader/printer/speach parameters to make devices with other capabilities display the information appropriatly.
 3. How would you explain the concept of a variable to someone new to programming?
-   > A variable is like a bookmark or a anchor for computers to so that the computer can find, use, and manipulate the data after it is defined.
+   > A variable is like a bookmark or a anchor for computers so that the computer can find, use, and manipulate the data after it is defined.
 4. What is the purpose of using functions in code?
-   > Functions are like a computers recepie guide to doing something. It gives the computer instructions how to do a described task.
+   > Functions are like a computers reusable recepie guide to doing something. It gives the computer instructions how to do a described task.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
